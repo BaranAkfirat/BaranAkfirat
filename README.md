@@ -1,16 +1,91 @@
-## Hi there 👋
+# 👋 Hi, I'm Baran Akfırat
 
-<!--
-**BaranAkfirat/BaranAkfirat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Junior Computer Engineering Student**  
+🚀 **Entrepreneur • Product-Oriented Developer • Community Leader**
 
-Here are some ideas to get you started:
+I am a computer engineering student who enjoys turning **ideas into real, working products**.  
+For me, software is not just about writing code — it is about **building systems, solving real problems, and creating measurable value**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I actively work on:
+- Backend & system development  
+- API design and automation  
+- Hardware + software integrated projects  
+- E-commerce and digital product initiatives  
+- Community leadership and large-scale event organization  
+
+---
+
+## 🧠 Areas of Interest & Focus
+
+- 🔹 **Backend Development & System Design**
+- 🔹 **API Development & Automation**
+- 🔹 **Entrepreneurship & Product Development**
+- 🔹 **E-commerce Infrastructure (Shopify, Marketplace Integrations)**
+- 🔹 **IoT & Embedded Systems (ESP32, sensor-based projects)**
+- 🔹 **Data-driven decision systems**
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+### 🌐 Backend & Web
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+---
+
+### 🗄️ Databases & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+
+---
+
+### 🔌 Hardware & Embedded Systems
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+
+---
+
+## 🚀 My Approach
+
+> “An idea only becomes valuable the day it starts working.”
+
+- I focus on turning theory into practice  
+- I build MVPs, test with real users, and iterate fast  
+- I care about scalability, clarity, and maintainability  
+- I prefer real problems over hypothetical ones  
+
+---
+
+## 🎯 Goals
+
+To build **real-world products** at the intersection of software, hardware, and entrepreneurship.  
+I aim to create systems with strong technical foundations **and** real business value.
+
+---
+
+📫 **Contact & Collaboration**  
+I am open to collaboration, new projects, and meaningful ideas.
+e-mail: baranakf@gmail.com
+
+> *“Code should not only work — it should matter.”*
