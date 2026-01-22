@@ -10,7 +10,8 @@ Currently, I actively work on:
 - Backend & system development  
 - API design and automation  
 - Hardware + software integrated projects  
-- E-commerce and digital product initiatives  
+- E-commerce and digital product initiatives
+- Mobile application development
 - Community leadership and large-scale event organization  
 
 ---
@@ -23,6 +24,8 @@ Currently, I actively work on:
 - 🔹 **E-commerce Infrastructure (Shopify, Marketplace Integrations)**
 - 🔹 **IoT & Embedded Systems**
 - 🔹 **Data-driven decision systems**
+- 🔹 **Mobile Application Development**
+
 
 ---
 
@@ -30,6 +33,7 @@ Currently, I actively work on:
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -37,11 +41,12 @@ Currently, I actively work on:
 
 ---
 
-### 🌐 Backend & Web
+### 🌐 Backend & Web & Mobil
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java Backend](https://img.shields.io/badge/Java_Backend-ED8B00?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Mobile_API_Integration](https://img.shields.io/badge/API_Integration-005571?style=for-the-badge)
 
 ---
 
