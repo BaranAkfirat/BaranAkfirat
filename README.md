@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Baran Akfırat
 
-🎓 **Junior Computer Engineering Student**  
+🎓 **Computer Engineering Student**  
 🚀 **Entrepreneur • Product-Oriented Developer • Community Leader**
 
 I am a computer engineering student who enjoys turning **ideas into real, working products**.  
