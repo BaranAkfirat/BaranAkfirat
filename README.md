@@ -1,10 +1,10 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <br><br>
 
-🎓 **Computer Engineering Student**  
+🎓 **Computer Engineering**  
 🚀 **Entrepreneur • Product-Oriented Developer • Community Leader**
 
-I am a computer engineering student who enjoys turning **ideas into real, working products**.  
+I am a Computer Engineering graduate passionate about building software products that solve real-world problems.  
 For me, software is not just about writing code — it is about **building systems, solving real problems, and creating measurable value**.
 
 Currently, I actively work on:
@@ -22,7 +22,7 @@ Currently, I actively work on:
 - 🔹 **Backend Development & System Design**
 - 🔹 **API Development & Automation**
 - 🔹 **Product Development & MVP Building**
-- 🔹 **E-commerce Infrastructure (Shopify, Marketplace Integrations)**
+- 🔹 **E-commerce Infrastructure**
 - 🔹 **IoT & Embedded Systems**
 - 🔹 **Data-driven decision systems**
 - 🔹 **Mobile Application Development**
@@ -44,7 +44,7 @@ Currently, I actively work on:
 
 ### 🌐 Backend & Web & Mobil
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java Backend](https://img.shields.io/badge/Java_Backend-ED8B00?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java_Backend-ED8B00?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![Mobile_API_Integration](https://img.shields.io/badge/API_Integration-005571?style=for-the-badge)
